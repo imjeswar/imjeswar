@@ -1,151 +1,234 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jeswar A M</h1>
 
-# Hi there, I'm Jeswar A M 👋
+<h3 align="center">
+Aspiring Full Stack Developer | AI & Data Science Student | Building Intelligent Web Applications
+</h3>
 
-### Aspiring Full Stack Developer • AI & Data Science Student • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Software+for+Real+World+Problems;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Node.js+%7C+FastAPI;Always+Learning+Something+New"/>
-
-<p>
-<a href="https://linkedin.com/in/jeswar-am">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:imjeswar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge"/>
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;React+%7C+Node.js+%7C+MongoDB;FastAPI+%7C+Python+%7C+JavaScript;Always+Learning+New+Technologies" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+<p align="center">
+<a href="https://github.com/imjeswar">
+<img src="https://img.shields.io/github/followers/imjeswar?label=Followers&style=for-the-badge">
+</a>
 
-</div>
+<a href="https://github.com/imjeswar">
+<img src="https://img.shields.io/github/stars/imjeswar?style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=imjeswar&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
 # 💫 About Me
 
-I'm **Jeswar A M**, an Artificial Intelligence & Data Science undergraduate who enjoys building scalable software and AI-powered applications.
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-I love transforming ideas into complete products—from intuitive frontend interfaces to secure backend systems.
+💻 Passionate about Full Stack Development & Artificial Intelligence
 
-Currently focusing on:
+🚀 Building scalable, secure and user-friendly web applications
 
-- 🚀 Full Stack Development
-- 🤖 Artificial Intelligence
-- ☁ Cloud Technologies
-- 🏗 System Design
-- ⚡ Backend Engineering
+🌱 Currently learning
 
-> **"Great software isn't about writing more code. It's about solving meaningful problems."**
+- System Design
+- Cloud Technologies
+- Advanced Backend Development
+- AI Powered Applications
 
----
-
-# 🚀 Current Projects
-
-### 🤖 AI Resume Screening Simulator
-
-ATS-inspired platform that analyzes resumes using AI.
-
-**Stack**
-
-- React
-- Tailwind CSS
-- FastAPI
-- OpenAI API
-
----
-
-### 🛒 Full Stack E-Commerce Platform
-
-A secure e-commerce application with authentication, admin dashboard, REST APIs and MongoDB.
-
-**Stack**
+💬 Ask me about
 
 - React
 - Node.js
-- Express.js
 - MongoDB
-- JWT
+- FastAPI
+- JavaScript
+- Python
+
+⚡ Fun Fact
+
+I enjoy transforming ideas into real-world software products.
 
 ---
 
-### 💬 AI Chat Application
+# 🌐 Connect with Me
 
-Modern conversational AI powered by Gemini API.
+<p align="left">
+
+<a href="mailto:imjeswar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jeswar-am-2ab71137b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/imjeswar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-### ✍ Text-to-Handwriting Generator
+# 🚀 Portfolio
 
-Convert digital text into realistic handwritten notes using Canvas API.
+🌐 **Portfolio Website**
+
+👉 https://react-portfolio-three-pi-91.vercel.app/
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ## Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c"/>
+
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
 </p>
 
 ## Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
 </p>
 
-## Databases
+## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+
 </p>
 
 ## Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws"/>
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📂 Featured Projects
+
+## 🤖 AI Resume Screening Simulator
+
+> ATS Resume Analyzer built with React + FastAPI
+
+✨ Features
+
+- Resume Parsing
+- ATS Score
+- Keyword Matching
+- AI Feedback
+- PDF & DOCX Support
+
+---
+
+## 🛒 Full Stack E-Commerce Platform
+
+Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT Authentication
+
+Features
+
+- User Authentication
+- Admin Dashboard
+- Product Management
+- Secure REST APIs
+
+---
+
+## 💬 AI Chat Application
+
+Built using
+
+- Streamlit
+- Gemini API
+- Python
+
+Features
+
+- AI Conversations
+- Modern UI
+- Fast Response
+
+---
+
+## ✍ Text to Handwriting Tool
+
+Features
+
+- Beautiful handwriting generation
+- Canvas API
+- Responsive Design
+- Custom Layouts
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imjeswar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=imjeswar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjeswar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imjeswar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imjeswar&theme=onedark&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# ⚙ Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,figma"/>
 
 </p>
 
@@ -153,49 +236,23 @@ Convert digital text into realistic handwritten notes using Canvas API.
 
 # 📚 Currently Learning
 
-- Docker
-- AWS Cloud
-- CI/CD
+- Advanced React
 - System Design
-- Design Patterns
-- Scalable Backend Development
+- Cloud Computing
+- AI Engineering
+- Docker
+- CI/CD
 
 ---
 
-# 🎯 2026 Goals
+# 💡 Quote
 
-- ✅ Build production-ready AI applications
-- ✅ Master Full Stack Development
-- ⬜ Learn Kubernetes
-- ⬜ Contribute to Open Source
-- ⬜ Crack Software Engineer interviews
-- ⬜ Build SaaS products
+> "Code. Learn. Build. Repeat."
 
 ---
 
-# ⚡ Fun Facts
+<p align="center">
 
-- 💡 I enjoy solving real-world problems with code.
-- 🌱 Every project teaches me something new.
-- 📖 Always exploring emerging technologies.
-- 🎯 Consistency beats perfection.
+⭐ Thanks for visiting my profile!
 
----
-
-# 📫 Let's Connect
-
-📧 **Email:** **imjeswar@gmail.com**
-
-💼 **LinkedIn:** https://linkedin.com/in/jeswar-am
-
-🌍 **Location:** Trichy, Tamil Nadu, India
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code with purpose. Learn with curiosity. Build with impact."*
-
-</div>
+</p>
